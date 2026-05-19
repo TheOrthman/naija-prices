@@ -1,0 +1,121 @@
+date,city,market,product,price,unit,source
+2026-01-26,Lagos,Mile 12,tomato round,56243,standard,nairametrics
+2026-01-26,Lagos,Oyingbo,tomato round,53559,standard,nairametrics
+2026-01-26,Lagos,Mushin,tomato round,54647,standard,nairametrics
+2026-01-26,Lagos,Daleko,tomato round,54854,standard,nairametrics
+2026-01-26,Abuja,Wuse,tomato round,62516,standard,nairametrics
+2026-01-26,Abuja,Garki,tomato round,65450,standard,nairametrics
+2026-01-26,Abuja,Utako,tomato round,62332,standard,nairametrics
+2026-01-26,Port Harcourt,Mile 3,tomato round,58410,standard,nairametrics
+2026-01-26,Port Harcourt,Creek Road,tomato round,56288,standard,nairametrics
+2026-01-26,Port Harcourt,Oil Mill,tomato round,60358,standard,nairametrics
+2026-01-26,Lagos,Mile 12,tomato oval,33158,standard,nairametrics
+2026-01-26,Lagos,Oyingbo,tomato oval,32809,standard,nairametrics
+2026-01-26,Lagos,Mushin,tomato oval,33162,standard,nairametrics
+2026-01-26,Lagos,Daleko,tomato oval,34351,standard,nairametrics
+2026-01-26,Abuja,Wuse,tomato oval,39776,standard,nairametrics
+2026-01-26,Abuja,Garki,tomato oval,38858,standard,nairametrics
+2026-01-26,Abuja,Utako,tomato oval,40886,standard,nairametrics
+2026-01-26,Port Harcourt,Mile 3,tomato oval,35620,standard,nairametrics
+2026-01-26,Port Harcourt,Creek Road,tomato oval,35240,standard,nairametrics
+2026-01-26,Port Harcourt,Oil Mill,tomato oval,36090,standard,nairametrics
+2026-01-26,Lagos,Mile 12,garri white,20625,standard,nairametrics
+2026-01-26,Lagos,Oyingbo,garri white,21894,standard,nairametrics
+2026-01-26,Lagos,Mushin,garri white,20501,standard,nairametrics
+2026-01-26,Lagos,Daleko,garri white,21072,standard,nairametrics
+2026-01-26,Abuja,Wuse,garri white,25532,standard,nairametrics
+2026-01-26,Abuja,Garki,garri white,24599,standard,nairametrics
+2026-01-26,Abuja,Utako,garri white,23780,standard,nairametrics
+2026-01-26,Port Harcourt,Mile 3,garri white,22359,standard,nairametrics
+2026-01-26,Port Harcourt,Creek Road,garri white,22009,standard,nairametrics
+2026-01-26,Port Harcourt,Oil Mill,garri white,22665,standard,nairametrics
+2026-01-26,Lagos,Mile 12,garri yellow,20912,standard,nairametrics
+2026-01-26,Lagos,Oyingbo,garri yellow,20990,standard,nairametrics
+2026-01-26,Lagos,Mushin,garri yellow,21176,standard,nairametrics
+2026-01-26,Lagos,Daleko,garri yellow,20812,standard,nairametrics
+2026-01-26,Abuja,Wuse,garri yellow,24597,standard,nairametrics
+2026-01-26,Abuja,Garki,garri yellow,23798,standard,nairametrics
+2026-01-26,Abuja,Utako,garri yellow,24874,standard,nairametrics
+2026-01-26,Port Harcourt,Mile 3,garri yellow,21657,standard,nairametrics
+2026-01-26,Port Harcourt,Creek Road,garri yellow,21728,standard,nairametrics
+2026-01-26,Port Harcourt,Oil Mill,garri yellow,21243,standard,nairametrics
+2026-01-26,Lagos,Mile 12,rice royal stallion,49518,standard,nairametrics
+2026-01-26,Lagos,Oyingbo,rice royal stallion,50164,standard,nairametrics
+2026-01-26,Lagos,Mushin,rice royal stallion,51633,standard,nairametrics
+2026-01-26,Lagos,Daleko,rice royal stallion,50348,standard,nairametrics
+2026-01-26,Abuja,Wuse,rice royal stallion,57617,standard,nairametrics
+2026-01-26,Abuja,Garki,rice royal stallion,56225,standard,nairametrics
+2026-01-26,Abuja,Utako,rice royal stallion,57703,standard,nairametrics
+2026-01-26,Port Harcourt,Mile 3,rice royal stallion,53644,standard,nairametrics
+2026-01-26,Port Harcourt,Creek Road,rice royal stallion,55390,standard,nairametrics
+2026-01-26,Port Harcourt,Oil Mill,rice royal stallion,54651,standard,nairametrics
+2026-01-26,Lagos,Mile 12,rice mamas pride,56362,standard,nairametrics
+2026-01-26,Lagos,Oyingbo,rice mamas pride,55689,standard,nairametrics
+2026-01-26,Lagos,Mushin,rice mamas pride,57177,standard,nairametrics
+2026-01-26,Lagos,Daleko,rice mamas pride,54014,standard,nairametrics
+2026-01-26,Abuja,Wuse,rice mamas pride,63053,standard,nairametrics
+2026-01-26,Abuja,Garki,rice mamas pride,58893,standard,nairametrics
+2026-01-26,Abuja,Utako,rice mamas pride,61445,standard,nairametrics
+2026-01-26,Port Harcourt,Mile 3,rice mamas pride,59041,standard,nairametrics
+2026-01-26,Port Harcourt,Creek Road,rice mamas pride,56033,standard,nairametrics
+2026-01-26,Port Harcourt,Oil Mill,rice mamas pride,55927,standard,nairametrics
+2026-01-26,Lagos,Mile 12,beans brown,101152,standard,nairametrics
+2026-01-26,Lagos,Oyingbo,beans brown,98694,standard,nairametrics
+2026-01-26,Lagos,Mushin,beans brown,98851,standard,nairametrics
+2026-01-26,Lagos,Daleko,beans brown,99470,standard,nairametrics
+2026-01-26,Abuja,Wuse,beans brown,118457,standard,nairametrics
+2026-01-26,Abuja,Garki,beans brown,117949,standard,nairametrics
+2026-01-26,Abuja,Utako,beans brown,119294,standard,nairametrics
+2026-01-26,Port Harcourt,Mile 3,beans brown,112953,standard,nairametrics
+2026-01-26,Port Harcourt,Creek Road,beans brown,109844,standard,nairametrics
+2026-01-26,Port Harcourt,Oil Mill,beans brown,113678,standard,nairametrics
+2026-01-26,Lagos,Mile 12,beans oloyin,54493,standard,nairametrics
+2026-01-26,Lagos,Oyingbo,beans oloyin,55271,standard,nairametrics
+2026-01-26,Lagos,Mushin,beans oloyin,56083,standard,nairametrics
+2026-01-26,Lagos,Daleko,beans oloyin,56163,standard,nairametrics
+2026-01-26,Abuja,Wuse,beans oloyin,61940,standard,nairametrics
+2026-01-26,Abuja,Garki,beans oloyin,64881,standard,nairametrics
+2026-01-26,Abuja,Utako,beans oloyin,62218,standard,nairametrics
+2026-01-26,Port Harcourt,Mile 3,beans oloyin,59386,standard,nairametrics
+2026-01-26,Port Harcourt,Creek Road,beans oloyin,57483,standard,nairametrics
+2026-01-26,Port Harcourt,Oil Mill,beans oloyin,60037,standard,nairametrics
+2026-01-26,Lagos,Mile 12,melon,287912,standard,nairametrics
+2026-01-26,Lagos,Oyingbo,melon,273442,standard,nairametrics
+2026-01-26,Lagos,Mushin,melon,288164,standard,nairametrics
+2026-01-26,Lagos,Daleko,melon,287768,standard,nairametrics
+2026-01-26,Abuja,Wuse,melon,302886,standard,nairametrics
+2026-01-26,Abuja,Garki,melon,315018,standard,nairametrics
+2026-01-26,Abuja,Utako,melon,299794,standard,nairametrics
+2026-01-26,Port Harcourt,Mile 3,melon,293155,standard,nairametrics
+2026-01-26,Port Harcourt,Creek Road,melon,288852,standard,nairametrics
+2026-01-26,Port Harcourt,Oil Mill,melon,299826,standard,nairametrics
+2026-01-26,Lagos,Mile 12,pepper,88770,standard,nairametrics
+2026-01-26,Lagos,Oyingbo,pepper,87069,standard,nairametrics
+2026-01-26,Lagos,Mushin,pepper,91646,standard,nairametrics
+2026-01-26,Lagos,Daleko,pepper,87411,standard,nairametrics
+2026-01-26,Abuja,Wuse,pepper,100737,standard,nairametrics
+2026-01-26,Abuja,Garki,pepper,102285,standard,nairametrics
+2026-01-26,Abuja,Utako,pepper,100361,standard,nairametrics
+2026-01-26,Port Harcourt,Mile 3,pepper,95610,standard,nairametrics
+2026-01-26,Port Harcourt,Creek Road,pepper,96801,standard,nairametrics
+2026-01-26,Port Harcourt,Oil Mill,pepper,97206,standard,nairametrics
+2026-01-26,Lagos,Mile 12,yam,3773,standard,nairametrics
+2026-01-26,Lagos,Oyingbo,yam,3941,standard,nairametrics
+2026-01-26,Lagos,Mushin,yam,3932,standard,nairametrics
+2026-01-26,Lagos,Daleko,yam,3845,standard,nairametrics
+2026-01-26,Abuja,Wuse,yam,4743,standard,nairametrics
+2026-01-26,Abuja,Garki,yam,4609,standard,nairametrics
+2026-01-26,Abuja,Utako,yam,4504,standard,nairametrics
+2026-01-26,Port Harcourt,Mile 3,yam,4253,standard,nairametrics
+2026-01-26,Port Harcourt,Creek Road,yam,4056,standard,nairametrics
+2026-01-26,Port Harcourt,Oil Mill,yam,4087,standard,nairametrics
+2026-01-26,Lagos,Mile 12,fish titus,6043,standard,nairametrics
+2026-01-26,Lagos,Oyingbo,fish titus,6013,standard,nairametrics
+2026-01-26,Lagos,Mushin,fish titus,5992,standard,nairametrics
+2026-01-26,Lagos,Daleko,fish titus,5843,standard,nairametrics
+2026-01-26,Abuja,Wuse,fish titus,6974,standard,nairametrics
+2026-01-26,Abuja,Garki,fish titus,7040,standard,nairametrics
+2026-01-26,Abuja,Utako,fish titus,6839,standard,nairametrics
+2026-01-26,Port Harcourt,Mile 3,fish titus,6213,standard,nairametrics
+2026-01-26,Port Harcourt,Creek Road,fish titus,6499,standard,nairametrics
+2026-01-26,Port Harcourt,Oil Mill,fish titus,6661,standard,nairametrics

@@ -1,0 +1,11 @@
+prefect>=2.0
+pandas
+requests
+beautifulsoup4
+psycopg2-binary
+sqlalchemy
+dbt-postgres
+streamlit
+fastapi
+uvicorn
+python-dotenv
