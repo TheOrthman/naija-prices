@@ -22,10 +22,12 @@ jobs:
       - name: Run scraper
         run: python src/extract/scrape_prices.py
       
-      - name: Commit new data
+            - name: Commit new data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "Naija Prices Bot"
           git config user.email "bot@naijaprices.ng"
           git add data/raw/
           git diff --quiet && git diff --staged --quiet || git commit -m "Daily price update $(date +'%Y-%m-%d')"
-          git push
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
