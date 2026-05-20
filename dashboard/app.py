@@ -32,6 +32,7 @@ def load_data():
 
 df = load_data()
 
+st.sidebar.caption(f"📦 Loaded {len(df)} rows | Latest: {df['date'].max() if not df.empty else 'none'}"
 # Sidebar - define BEFORE using
 st.sidebar.header("Filter")
 city = st.sidebar.selectbox("Choose City", sorted(df['city'].unique()))
