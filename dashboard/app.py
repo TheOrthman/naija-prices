@@ -1,26 +1,24 @@
 import streamlit as st
 import pandas as pd
-import glob, os
+import glob
 
 st.set_page_config(page_title="Naija Prices", layout="wide", initial_sidebar_state="expanded")
 
 @st.cache_data(ttl=300)  # refresh every 5 min
 def load_data():
-    # Always read fresh CSVs from repo (no SQLite)
     files = sorted(glob.glob('data/raw/*.csv'))
     if not files:
         return pd.DataFrame()
     df = pd.concat([pd.read_csv(f) for f in files], ignore_index=True)
-    # ensure correct types
     df['date'] = pd.to_datetime(df['date']).dt.date.astype(str)
     return df
 
 df = load_data()
 
-# Debug - proves what Streamlit sees
-st.sidebar.caption(f"📦 Loaded {len(df)} rows | Latest: {df['date'].max() if not df.empty else 'none'}")
+# Debug caption - shows what date Streamlit actually loaded
+latest = df['date'].max() if not df.empty else 'none'
+st.sidebar.caption(f"📦 Loaded {len(df)} rows | Latest: {latest}")
 
-st.sidebar.caption(f"📦 Loaded {len(df)} rows | Latest: {df['date'].max() if not df.empty else 'none'}"
 # Sidebar - define BEFORE using
 st.sidebar.header("Filter")
 city = st.sidebar.selectbox("Choose City", sorted(df['city'].unique()))
