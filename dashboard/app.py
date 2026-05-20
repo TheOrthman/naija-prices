@@ -1,37 +1,26 @@
 import streamlit as st
 import pandas as pd
-import sqlite3
-import os
+import glob, os
 
 st.set_page_config(page_title="Naija Prices", layout="wide", initial_sidebar_state="expanded")
 
-@st.cache_data(ttl=600)  # refresh every 10 min
+@st.cache_data(ttl=300)  # refresh every 5 min
 def load_data():
-    # Always rebuild from CSVs if DB is older than latest CSV
-    import glob, time
-    csvs = sorted(glob.glob('data/raw/*.csv'))
-    db_path = 'market_prices.db'
-    
-    if csvs:
-        latest_csv_time = os.path.getmtime(csvs[-1])
-        db_time = os.path.getmtime(db_path) if os.path.exists(db_path) else 0
-        
-        if latest_csv_time > db_time:
-            # rebuild
-            if os.path.exists(db_path):
-                os.remove(db_path)
-            import src.load.load_to_sqlite as l
-            for f in csvs:
-                l.load_csv(f)
-            import src.transform as t  # runs your transform to create fct_daily_prices
-    
-    conn = sqlite3.connect(db_path)
-    df = pd.read_sql("SELECT * FROM fct_daily_prices ORDER BY date DESC", conn)
-    conn.close()
+    # Always read fresh CSVs from repo (no SQLite)
+    files = sorted(glob.glob('data/raw/*.csv'))
+    if not files:
+        return pd.DataFrame()
+    df = pd.concat([pd.read_csv(f) for f in files], ignore_index=True)
+    # ensure correct types
+    df['date'] = pd.to_datetime(df['date']).dt.date.astype(str)
     return df
 
 df = load_data()
 
+# Debug - proves what Streamlit sees
+st.sidebar.caption(f"📦 Loaded {len(df)} rows | Latest: {df['date'].max() if not df.empty else 'none'}")
+
+st.sidebar.caption(f"📦 Loaded {len(df)} rows | Latest: {df['date'].max() if not df.empty else 'none'}"
 # Sidebar - define BEFORE using
 st.sidebar.header("Filter")
 city = st.sidebar.selectbox("Choose City", sorted(df['city'].unique()))
