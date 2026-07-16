@@ -1,0 +1,121 @@
+date,city,market,product,price,unit,source
+2026-07-16,Lagos,Mile 12,tomato round,64190,standard,nairametrics_cached
+2026-07-16,Lagos,Oyingbo,tomato round,63662,standard,nairametrics_cached
+2026-07-16,Lagos,Mushin,tomato round,67456,standard,nairametrics_cached
+2026-07-16,Lagos,Daleko,tomato round,63757,standard,nairametrics_cached
+2026-07-16,Abuja,Wuse,tomato round,70203,standard,nairametrics_cached
+2026-07-16,Abuja,Garki,tomato round,72388,standard,nairametrics_cached
+2026-07-16,Abuja,Utako,tomato round,72703,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Mile 3,tomato round,65490,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Creek Road,tomato round,66865,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Oil Mill,tomato round,69870,standard,nairametrics_cached
+2026-07-16,Lagos,Mile 12,tomato oval,38499,standard,nairametrics_cached
+2026-07-16,Lagos,Oyingbo,tomato oval,38672,standard,nairametrics_cached
+2026-07-16,Lagos,Mushin,tomato oval,38466,standard,nairametrics_cached
+2026-07-16,Lagos,Daleko,tomato oval,40524,standard,nairametrics_cached
+2026-07-16,Abuja,Wuse,tomato oval,44767,standard,nairametrics_cached
+2026-07-16,Abuja,Garki,tomato oval,46471,standard,nairametrics_cached
+2026-07-16,Abuja,Utako,tomato oval,45239,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Mile 3,tomato oval,40969,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Creek Road,tomato oval,42587,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Oil Mill,tomato oval,41556,standard,nairametrics_cached
+2026-07-16,Lagos,Mile 12,garri white,25044,standard,nairametrics_cached
+2026-07-16,Lagos,Oyingbo,garri white,24397,standard,nairametrics_cached
+2026-07-16,Lagos,Mushin,garri white,25554,standard,nairametrics_cached
+2026-07-16,Lagos,Daleko,garri white,25811,standard,nairametrics_cached
+2026-07-16,Abuja,Wuse,garri white,28211,standard,nairametrics_cached
+2026-07-16,Abuja,Garki,garri white,27732,standard,nairametrics_cached
+2026-07-16,Abuja,Utako,garri white,27067,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Mile 3,garri white,26226,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Creek Road,garri white,26019,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Oil Mill,garri white,26023,standard,nairametrics_cached
+2026-07-16,Lagos,Mile 12,garri yellow,25352,standard,nairametrics_cached
+2026-07-16,Lagos,Oyingbo,garri yellow,25777,standard,nairametrics_cached
+2026-07-16,Lagos,Mushin,garri yellow,25830,standard,nairametrics_cached
+2026-07-16,Lagos,Daleko,garri yellow,24037,standard,nairametrics_cached
+2026-07-16,Abuja,Wuse,garri yellow,28018,standard,nairametrics_cached
+2026-07-16,Abuja,Garki,garri yellow,27999,standard,nairametrics_cached
+2026-07-16,Abuja,Utako,garri yellow,26667,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Mile 3,garri yellow,25289,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Creek Road,garri yellow,26294,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Oil Mill,garri yellow,25770,standard,nairametrics_cached
+2026-07-16,Lagos,Mile 12,rice royal stallion,57989,standard,nairametrics_cached
+2026-07-16,Lagos,Oyingbo,rice royal stallion,62314,standard,nairametrics_cached
+2026-07-16,Lagos,Mushin,rice royal stallion,58867,standard,nairametrics_cached
+2026-07-16,Lagos,Daleko,rice royal stallion,58131,standard,nairametrics_cached
+2026-07-16,Abuja,Wuse,rice royal stallion,64397,standard,nairametrics_cached
+2026-07-16,Abuja,Garki,rice royal stallion,64989,standard,nairametrics_cached
+2026-07-16,Abuja,Utako,rice royal stallion,66062,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Mile 3,rice royal stallion,60634,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Creek Road,rice royal stallion,62804,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Oil Mill,rice royal stallion,63927,standard,nairametrics_cached
+2026-07-16,Lagos,Mile 12,rice mamas pride,65498,standard,nairametrics_cached
+2026-07-16,Lagos,Oyingbo,rice mamas pride,67594,standard,nairametrics_cached
+2026-07-16,Lagos,Mushin,rice mamas pride,64182,standard,nairametrics_cached
+2026-07-16,Lagos,Daleko,rice mamas pride,62693,standard,nairametrics_cached
+2026-07-16,Abuja,Wuse,rice mamas pride,69719,standard,nairametrics_cached
+2026-07-16,Abuja,Garki,rice mamas pride,70250,standard,nairametrics_cached
+2026-07-16,Abuja,Utako,rice mamas pride,70287,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Mile 3,rice mamas pride,69435,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Creek Road,rice mamas pride,65899,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Oil Mill,rice mamas pride,68894,standard,nairametrics_cached
+2026-07-16,Lagos,Mile 12,beans brown,121958,standard,nairametrics_cached
+2026-07-16,Lagos,Oyingbo,beans brown,121221,standard,nairametrics_cached
+2026-07-16,Lagos,Mushin,beans brown,122216,standard,nairametrics_cached
+2026-07-16,Lagos,Daleko,beans brown,122611,standard,nairametrics_cached
+2026-07-16,Abuja,Wuse,beans brown,132907,standard,nairametrics_cached
+2026-07-16,Abuja,Garki,beans brown,134416,standard,nairametrics_cached
+2026-07-16,Abuja,Utako,beans brown,139189,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Mile 3,beans brown,129810,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Creek Road,beans brown,123147,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Oil Mill,beans brown,127550,standard,nairametrics_cached
+2026-07-16,Lagos,Mile 12,beans oloyin,63635,standard,nairametrics_cached
+2026-07-16,Lagos,Oyingbo,beans oloyin,67164,standard,nairametrics_cached
+2026-07-16,Lagos,Mushin,beans oloyin,63903,standard,nairametrics_cached
+2026-07-16,Lagos,Daleko,beans oloyin,66905,standard,nairametrics_cached
+2026-07-16,Abuja,Wuse,beans oloyin,71011,standard,nairametrics_cached
+2026-07-16,Abuja,Garki,beans oloyin,72547,standard,nairametrics_cached
+2026-07-16,Abuja,Utako,beans oloyin,69821,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Mile 3,beans oloyin,69991,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Creek Road,beans oloyin,69282,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Oil Mill,beans oloyin,65281,standard,nairametrics_cached
+2026-07-16,Lagos,Mile 12,melon,339393,standard,nairametrics_cached
+2026-07-16,Lagos,Oyingbo,melon,325229,standard,nairametrics_cached
+2026-07-16,Lagos,Mushin,melon,320914,standard,nairametrics_cached
+2026-07-16,Lagos,Daleko,melon,322664,standard,nairametrics_cached
+2026-07-16,Abuja,Wuse,melon,347567,standard,nairametrics_cached
+2026-07-16,Abuja,Garki,melon,349132,standard,nairametrics_cached
+2026-07-16,Abuja,Utako,melon,346332,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Mile 3,melon,336728,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Creek Road,melon,335654,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Oil Mill,melon,334486,standard,nairametrics_cached
+2026-07-16,Lagos,Mile 12,pepper,102961,standard,nairametrics_cached
+2026-07-16,Lagos,Oyingbo,pepper,103740,standard,nairametrics_cached
+2026-07-16,Lagos,Mushin,pepper,108409,standard,nairametrics_cached
+2026-07-16,Lagos,Daleko,pepper,108216,standard,nairametrics_cached
+2026-07-16,Abuja,Wuse,pepper,114668,standard,nairametrics_cached
+2026-07-16,Abuja,Garki,pepper,117272,standard,nairametrics_cached
+2026-07-16,Abuja,Utako,pepper,118801,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Mile 3,pepper,111062,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Creek Road,pepper,106048,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Oil Mill,pepper,108086,standard,nairametrics_cached
+2026-07-16,Lagos,Mile 12,yam,4655,standard,nairametrics_cached
+2026-07-16,Lagos,Oyingbo,yam,4520,standard,nairametrics_cached
+2026-07-16,Lagos,Mushin,yam,4661,standard,nairametrics_cached
+2026-07-16,Lagos,Daleko,yam,4609,standard,nairametrics_cached
+2026-07-16,Abuja,Wuse,yam,5008,standard,nairametrics_cached
+2026-07-16,Abuja,Garki,yam,5350,standard,nairametrics_cached
+2026-07-16,Abuja,Utako,yam,5265,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Mile 3,yam,4710,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Creek Road,yam,4840,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Oil Mill,yam,4944,standard,nairametrics_cached
+2026-07-16,Lagos,Mile 12,fish titus,7104,standard,nairametrics_cached
+2026-07-16,Lagos,Oyingbo,fish titus,6789,standard,nairametrics_cached
+2026-07-16,Lagos,Mushin,fish titus,6992,standard,nairametrics_cached
+2026-07-16,Lagos,Daleko,fish titus,7038,standard,nairametrics_cached
+2026-07-16,Abuja,Wuse,fish titus,7960,standard,nairametrics_cached
+2026-07-16,Abuja,Garki,fish titus,7528,standard,nairametrics_cached
+2026-07-16,Abuja,Utako,fish titus,7676,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Mile 3,fish titus,7438,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Creek Road,fish titus,7421,standard,nairametrics_cached
+2026-07-16,Port Harcourt,Oil Mill,fish titus,7444,standard,nairametrics_cached
